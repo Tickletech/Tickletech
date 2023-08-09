@@ -1,16 +1,13 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, we are Tickletech</h1>
+<h3 align="center">Looking to revolutionize the world through creating secure technological solutions.</h3>
 
-<!--
-**Tickletech/Tickletech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### 🙋‍♂️ Meet the team
+- John Jones - Lead IT Support / Administrator
+- James Bond - Lead Developer
+- Sammy Smith - Senior Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### 📫 Contact the team
+
+Send an email to our lead developer James Bond, j.bond@tickletech.net
